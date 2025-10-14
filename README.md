@@ -15,4 +15,4 @@ cd buildwithpython
 ```
 
 ## Contributing
-Pull requests are welcome. Please open an issue first to discuss proposed changes.
+Pull requests are welcome. Please create an project or open an issue first to discuss proposed changes.
